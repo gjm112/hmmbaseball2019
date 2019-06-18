@@ -1,0 +1,82 @@
+\begin{thebibliography}{17}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem[{Albright(1993)}]{Albright1993}
+Albright, S.~C. (1993): \enquote{A statistical analysis of hitting streaks in
+  baseball,} \emph{Journal of the American Statistical Association}, 88,
+  1175--1183.
+
+\bibitem[{Altman(2007)}]{Altman2007}
+Altman, R.~M. (2007): \enquote{Mixed hidden markov models: An extension of the
+  hidden markov model to the longitudinal data setting,} \emph{Journal of the
+  American Statistical Association}, 102.
+
+\bibitem[{Arkes(2010)}]{Arkes2010}
+Arkes, J. (2010): \enquote{Revisiting the hot hand theory with free throw data
+  in a multivariate framework,} \emph{Journal of Quantitative Analysis in
+  Sports}, 6.
+
+\bibitem[{Arkes(2013)}]{Arkes2013}
+Arkes, J. (2013): \enquote{Misses in ``hot hand" research,} \emph{Journal of
+  Sports Economics}, 14, 401--410.
+
+\bibitem[{Bar-Eli(2006)}]{BarEliEtAl2006}
+Bar-Eli, A. S. R.~M., M. (2006): \enquote{Twenty years of ``hot hand" research:
+  Review and critique,} \emph{Psychology of Sport and Exercise}, 7, 525--553.
+
+\bibitem[{Bocskocsky and Carolyn(2014)}]{BocskocskyEtAl2014}
+Bocskocsky, E.~J., A. and S.~Carolyn (2014): \enquote{The hot hand: A new
+  approach to an ``old “fallacy",} \emph{Sloan Sports Conference}.
+
+\bibitem[{Gilovich and Tversky(1985)}]{Gilovich1985}
+Gilovich, V.~R., T. and A.~Tversky (1985): \enquote{The hot hand in basketball:
+  On the misperception of random sequences,} \emph{Cognitive Psychology}, 17,
+  295--314.
+
+\bibitem[{Huizinga and Weil(2009)}]{HuizingaWeil2009}
+Huizinga, J. and S.~Weil (2009): \enquote{Hot hand or hot head: The truth about
+  heat checks in the nba,} \emph{MIT Sloan Sports Analytics Conference}.
+
+\bibitem[{Humphreys(1998)}]{Humphreys1998}
+Humphreys, K. (1998): \enquote{The latent markov chain with multivariate random
+  effects,} \emph{Sociological Methods and Research}, 26, 269--299.
+
+\bibitem[{Koehler and Conley(2003)}]{KoehlerConley2003}
+Koehler, J. and C.~Conley (2003): \enquote{The ``hot hand" myth in professional
+  basketball,} \emph{Journal of Sport \& Exercise Psychology}, 25, 253--259.
+
+\bibitem[{Maruotti(2011)}]{Maruotti2011}
+Maruotti, A. (2011): \enquote{Mixed hidden markov models for longitudinal data:
+  An overview,} \emph{International Statistical Review}, 79, 427--454.
+
+\bibitem[{Meeden and Vardeman(1997)}]{MeedenAndVardeman1997}
+Meeden, G. and S.~Vardeman (1997): \enquote{A simple hidden markov model for
+  bayesian modeling with time dependent data,} .
+
+\bibitem[{Rabin and Vayanos(2010)}]{RabinVayanos2010}
+Rabin, M. and D.~Vayanos (2010): \enquote{The gambler's and hot-hand fallcies:
+  Theory and applications,} \emph{Review of Economic Studies}, 77, 730--778.
+
+\bibitem[{Seltman(2002)}]{Seltman2002}
+Seltman, H. (2002): \enquote{Hidden markov models for the analysis of
+  biological rhythm data,} in \emph{Case Studies in Bayesian Statistics}, New
+  York: Springer, chapter~5, 397--405.
+
+\bibitem[{Shirley et~al.(2010)Shirley, Small, Lynch, Maisto, and
+  Oslin}]{ShirleyEtAl2010}
+Shirley, K., D.~Small, K.~Lynch, S.~Maisto, and D.~Oslin (2010):
+  \enquote{Hidden markov models for alcoholism treatment trial data,} \emph{The
+  Annals of Applied Statistics}, 4, 366--395.
+
+\bibitem[{Stone(2012)}]{Stone2012}
+Stone, D. (2012): \enquote{Measurement error and the hot hand,} \emph{The
+  American Statistician}, 66, 61--66.
+
+\bibitem[{Tversky and Gilovich(1989)}]{TverskyGilovich1989}
+Tversky, A. and T.~Gilovich (1989): \enquote{The ``hot hand": Statistical
+  reality or cognitive illusion?} \emph{Chance}, 2, 31--34.
+
+\end{thebibliography}
